@@ -9,7 +9,7 @@ Enter the target IP and port when prompted.
 
 ## Example
     $ python3 banner_grabber.py
-    what ip address do u want to collect banner from ? 192.168.24.132
+    what ip address do u want to collect banner from ? 192.168.27.152
     what port do u wan tro collect banner from ? 22
     b'SSH-2.0-OpenSSH_9.6\r\n'
 
